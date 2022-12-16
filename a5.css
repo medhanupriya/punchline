@@ -1,0 +1,9 @@
+.nextbtnClass{
+    background-color: blueviolet;
+    color: aquamarine;
+    border: none;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+}
